@@ -1,0 +1,8 @@
+[{
+  "_id": {
+    "$oid": "68253c4b9c5383b4786c4bd0"
+  },
+  "nama_supplier": "PT Sumber Sehat",
+  "alamat": "Jl. Kesehatan No. 10",
+  "telepon": "021888999"
+}]
