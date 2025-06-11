@@ -1,0 +1,18 @@
+[{
+  "_id": 1,
+  "nama": "Paracetamol",
+  "stok": 100,
+  "harga": 5000
+},
+{
+  "_id": 2,
+  "nama": "Vitamin C",
+  "stok": 80,
+  "harga": 7000
+},
+{
+  "_id": 3,
+  "nama": "Antalgin",
+  "stok": 50,
+  "harga": 3000
+}]
